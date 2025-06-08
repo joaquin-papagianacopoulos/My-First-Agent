@@ -1,6 +1,6 @@
-# Mi Primer Agente con AutoGen
+# Mi Primer Agente AI
 
-Este proyecto contiene un agente conversacional básico usando AutoGen y modelos GPT de OpenAI.
+Este proyecto contiene un agente conversacional básico usando crewAI y modelos GPT de OpenAI.
 
 ## Descripción
 
